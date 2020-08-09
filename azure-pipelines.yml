@@ -1,5 +1,4 @@
 pool:
-  name: Build
   demands: maven
   vmImage: 'ubuntu-16.04'
 
